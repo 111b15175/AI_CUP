@@ -1,0 +1,9 @@
+# 競賽資料集（影像）
+train/
+test/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.npy
